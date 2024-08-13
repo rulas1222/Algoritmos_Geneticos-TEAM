@@ -1,0 +1,5 @@
+git add . -> para agregar todo al repositorio git local
+git add index.html -> Para agregar ese documento puntual 
+git status -> Para checar el estado de los archivos que queremos subir o sea indica los cambios 
+git commit -m "Comentario" -> Agrego comentarios al subir al GitHub
+git push -> Para subir cambios a repositorio 
