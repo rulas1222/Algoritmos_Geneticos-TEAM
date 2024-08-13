@@ -1,0 +1,44 @@
+/* Estilos básicos para que el documento se vea bien */
+body {
+    font-family:sans-serif;
+    background: linear-gradient(#88CDF6,#53A7D8);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: #effaff;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #555;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.separator {
+    height: 1px;
+    background-color: #ccc;
+    margin: 20px 0;
+}
+
+.container table {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    margin-top: 25px;
+}
