@@ -3,3 +3,6 @@ git add index.html -> Para agregar ese documento puntual
 git status -> Para checar el estado de los archivos que queremos subir o sea indica los cambios 
 git commit -m "Comentario" -> Agrego comentarios al subir al GitHub
 git push -> Para subir cambios a repositorio 
+
+
+Raul es un putito listo ya hice mi primer modificacion 
